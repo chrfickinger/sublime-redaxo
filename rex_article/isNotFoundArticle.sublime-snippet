@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isNotFoundArticle($1)]]></content>
+    <tabTrigger>rexart_isNotFoundArticle</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOArticle</description>
+</snippet>

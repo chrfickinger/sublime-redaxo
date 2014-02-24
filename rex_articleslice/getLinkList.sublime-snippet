@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLinkList(${1:\$index})]]></content>
+    <tabTrigger>rexslice_getLinkList</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOSlice</description>
+</snippet>

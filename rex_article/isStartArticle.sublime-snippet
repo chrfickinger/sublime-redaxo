@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isStartArticle($1)]]></content>
+    <tabTrigger>rexart_isStartArticle</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOArticle</description>
+</snippet>

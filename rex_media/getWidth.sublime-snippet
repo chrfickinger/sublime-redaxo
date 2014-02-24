@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getWidth($1)]]></content>
+    <tabTrigger>rexmedia_getWidth</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMedia</description>
+</snippet>

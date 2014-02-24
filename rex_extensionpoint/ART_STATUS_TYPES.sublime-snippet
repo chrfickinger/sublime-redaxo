@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ART_STATUS_TYPES]]></content>
+    <tabTrigger>rexep_ART_STATUS_TYPES</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

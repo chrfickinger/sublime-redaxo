@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CAT_UPDATED]]></content>
+    <tabTrigger>rexep_CAT_UPDATED</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

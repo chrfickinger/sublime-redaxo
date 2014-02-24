@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[OUTPUT_FILTER_CACHE]]></content>
+    <tabTrigger>rexep_OUTPUT_FILTER_CACHE</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVersion(${1:\$addon_name}, ${2:\$return = ''})]]></content>
+    <tabTrigger>rexaddon_getVersion</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOAddon</description>
+</snippet>

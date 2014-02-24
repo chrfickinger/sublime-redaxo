@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isActivated(${1:\$addon_name})]]></content>
+    <tabTrigger>rexaddon_isActivated</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOAddon</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[REX_HTML]]></content>
+    <tabTrigger>rexout_REX_HTML</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Output</description>
+</snippet>

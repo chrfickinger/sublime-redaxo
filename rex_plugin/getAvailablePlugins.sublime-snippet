@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAvailablePlugins(${1:\$addon_name})]]></content>
+    <tabTrigger>rexplug_getAvailablePlugins</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOPlugin</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isValid(${1:\$object})]]></content>
+    <tabTrigger>rexart_isValid</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOArticle</description>
+</snippet>

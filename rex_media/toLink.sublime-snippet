@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[toLink(${1:\$attributes = null})]]></content>
+    <tabTrigger>rexmedia_toLink</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMedia</description>
+</snippet>

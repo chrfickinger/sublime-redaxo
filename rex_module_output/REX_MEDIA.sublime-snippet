@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[REX_MEDIA[${1:1-10 [int]}]]]></content>
+    <tabTrigger>rexout_REX_MEDIA[1-10]</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Output</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTemplateId($1)]]></content>
+    <tabTrigger>rexart_getTemplateId</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOArticle</description>
+</snippet>

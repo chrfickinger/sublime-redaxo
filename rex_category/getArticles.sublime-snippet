@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getArticles(${1:\$ignore_offlines = false})]]></content>
+    <tabTrigger>rexcat_getArticles</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOCategory</description>
+</snippet>

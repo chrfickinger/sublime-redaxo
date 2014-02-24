@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isOnline($1)]]></content>
+    <tabTrigger>rexcat_isOnline</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOCategory</description>
+</snippet>

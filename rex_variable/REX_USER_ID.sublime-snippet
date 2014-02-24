@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[REX_USER_ID]]></content>
+    <tabTrigger>rexvar_REX_USER_ID</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Variable</description>
+</snippet>

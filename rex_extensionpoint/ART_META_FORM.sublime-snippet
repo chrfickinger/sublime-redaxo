@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ART_META_FORM]]></content>
+    <tabTrigger>rexep_ART_META_FORM</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

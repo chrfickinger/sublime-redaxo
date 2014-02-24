@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getUpdateDate($1)]]></content>
+    <tabTrigger>rexmediacat_getUpdateDate</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMediaCat</description>
+</snippet>

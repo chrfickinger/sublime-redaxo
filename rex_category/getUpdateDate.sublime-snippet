@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getUpdateDate($1)]]></content>
+    <tabTrigger>rexcat_getUpdateDate</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOCategory</description>
+</snippet>

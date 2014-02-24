@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SLICE_SHOW]]></content>
+    <tabTrigger>rexep_SLICE_SHOW</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

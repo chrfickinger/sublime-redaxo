@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCategory($1)]]></content>
+    <tabTrigger>rexart_getCategory</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOArticle</description>
+</snippet>

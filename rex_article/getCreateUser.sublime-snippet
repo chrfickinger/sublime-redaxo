@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCreateUser($1)]]></content>
+    <tabTrigger>rexart_getCreateUser</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOArticle</description>
+</snippet>

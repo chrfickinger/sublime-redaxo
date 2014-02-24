@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSiteStartArticle(${1:\$clang = false})]]></content>
+    <tabTrigger>rexart_getSiteStartArticle</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOArticle</description>
+</snippet>

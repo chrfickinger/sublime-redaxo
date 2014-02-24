@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[REX_CATEGORY[${1:ciiips}, ${2:Clang Id [Int]}, ${3:Fieldname [String]}]]]></content>
+    <tabTrigger>rexvar_REX_CATEGORY[]</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Variable</description>
+</snippet>

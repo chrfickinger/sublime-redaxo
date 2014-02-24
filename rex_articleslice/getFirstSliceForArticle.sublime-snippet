@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFirstSliceForArticle(${1:\$article_id}, ${2:\$clang = false})]]></content>
+    <tabTrigger>rexslice_getFirstSliceForArticle</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOSlice</description>
+</snippet>

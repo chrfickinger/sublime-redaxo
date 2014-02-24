@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$REX_ACTION[SLICE_ID]]]></content>
+    <tabTrigger>rexaction_SLICE_ID</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>$REX_ACTION</description>
+</snippet>

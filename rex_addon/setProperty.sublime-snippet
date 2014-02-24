@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setProperty(${1:\$addon_name}, ${2:\$property}, ${3:\$value})]]></content>
+    <tabTrigger>rexaddon_setProperty</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOAddon</description>
+</snippet>

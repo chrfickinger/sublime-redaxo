@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getClang($1)]]></content>
+    <tabTrigger>rexart_getClang</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOArticle</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[REX_LINKLIST[${1:ciiips}]]]></content>
+    <tabTrigger>rexout_REX_LINKLIST[..]</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Output</description>
+</snippet>

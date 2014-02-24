@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$REX[NOFUNCTIONS]]]></content>
+    <tabTrigger>rex_NOFUNCTIONS</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>$REX</description>
+</snippet>

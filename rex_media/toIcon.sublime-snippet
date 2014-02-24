@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[toIcon(${1:\$icon_attributes = array()})]]></content>
+    <tabTrigger>rexmedia_toIcon</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMedia</description>
+</snippet>

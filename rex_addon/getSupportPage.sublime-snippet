@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSupportPage(${1:\$addon_name}, ${2:\$return = ''})]]></content>
+    <tabTrigger>rexaddon_getSupportPage</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOAddon</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getModuleId($1)]]></content>
+    <tabTrigger>rexslice_getModuleId</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOSlice</description>
+</snippet>

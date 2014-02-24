@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[MEDIA_LIST_FUNCTIONS]]></content>
+    <tabTrigger>rexep_MEDIA_LIST_FUNCTIONS</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

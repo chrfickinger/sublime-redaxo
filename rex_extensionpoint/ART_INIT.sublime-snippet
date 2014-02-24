@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ART_INIT]]></content>
+    <tabTrigger>rexep_ART_INIT</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

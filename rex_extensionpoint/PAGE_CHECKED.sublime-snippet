@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[PAGE_CHECKED]]></content>
+    <tabTrigger>rexep_PAGE_CHECKED</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

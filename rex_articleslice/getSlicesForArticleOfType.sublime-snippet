@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSlicesForArticleOfType(${1:\$article_id}, ${2:\$media_id}, ${3:\$clang = false})]]></content>
+    <tabTrigger>rexslice_getSlicesForArticleOfType</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOSlice</description>
+</snippet>

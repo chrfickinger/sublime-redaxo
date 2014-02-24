@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCategoryStartArticle(${1:\$category_id = false}, ${2:\$clang = false}) ]]></content>
+    <tabTrigger>rexart_getCategoryStartArticle</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOArticle</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getType($1)]]></content>
+    <tabTrigger>rexmedia_getType</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMedia</description>
+</snippet>

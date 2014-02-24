@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getUpdateDate(${1:\$format = null})]]></content>
+    <tabTrigger>rexmedia_getUpdateDate</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMedia</description>
+</snippet>

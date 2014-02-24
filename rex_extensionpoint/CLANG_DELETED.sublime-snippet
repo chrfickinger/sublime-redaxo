@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CLANG_DELETED]]></content>
+    <tabTrigger>rexep_CLANG_DELETED</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

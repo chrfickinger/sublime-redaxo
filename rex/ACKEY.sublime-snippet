@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$REX[ACKEY][${1:..}]]]></content>
+    <tabTrigger>rex_ACKEY</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>$REX</description>
+</snippet>

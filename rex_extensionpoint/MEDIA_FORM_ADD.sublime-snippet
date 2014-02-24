@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[MEDIA_FORM_ADD]]></content>
+    <tabTrigger>rexep_MEDIA_FORM_ADD</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

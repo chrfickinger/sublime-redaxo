@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isOnline($1)]]></content>
+    <tabTrigger>rexart_isOnline</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOArticle</description>
+</snippet>

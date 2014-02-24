@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[URL_REWRITE]]></content>
+    <tabTrigger>rexep_URL_REWRITE</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

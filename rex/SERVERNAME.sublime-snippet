@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$REX[SERVERNAME]]]></content>
+    <tabTrigger>rex_SERVERNAME</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>$REX</description>
+</snippet>

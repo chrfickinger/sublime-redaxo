@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[REX_MEDIALIST[${1:ciiips} mimetype]]]></content>
+    <tabTrigger>rexout_REX_MEDIALIST[..]</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Output</description>
+</snippet>

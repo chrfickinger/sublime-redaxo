@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[OOMEDIA_IS_IN_USE_QUERY]]></content>
+    <tabTrigger>rexep_OOMEDIA_IS_IN_USE_QUERY</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

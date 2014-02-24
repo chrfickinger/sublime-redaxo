@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getName($1)]]></content>
+    <tabTrigger>rexcat_getName</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOCategory</description>
+</snippet>

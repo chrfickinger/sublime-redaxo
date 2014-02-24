@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$REX[INCLUDE_PATH]]]></content>
+    <tabTrigger>rex_INCLUDE_PATH</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>$REX</description>
+</snippet>

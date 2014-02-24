@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNextSlice($1)]]></content>
+    <tabTrigger>rexslice_getNextSlice</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOSlice</description>
+</snippet>

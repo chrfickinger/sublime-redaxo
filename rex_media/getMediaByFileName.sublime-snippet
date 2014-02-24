@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMediaByFileName(${1:\$filename})]]></content>
+    <tabTrigger>rexmedia_getMediaByFileName</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMedia</description>
+</snippet>

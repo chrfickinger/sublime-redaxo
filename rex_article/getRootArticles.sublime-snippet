@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRootArticles(${1:\$ignore_offlines = false}, ${2:\$clang = false})]]></content>
+    <tabTrigger>rexart_getRootArticles</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOArticle</description>
+</snippet>

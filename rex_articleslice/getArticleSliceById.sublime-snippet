@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getArticleSliceById(${1:\$slice_id}, ${2:\$clang = false})]]></content>
+    <tabTrigger>rexslice_getArticleSliceById</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOSlice</description>
+</snippet>

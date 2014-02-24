@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CLANG_UPDATED]]></content>
+    <tabTrigger>rexep_CLANG_UPDATED</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

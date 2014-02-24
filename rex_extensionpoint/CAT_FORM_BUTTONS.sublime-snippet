@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CAT_FORM_BUTTONS]]></content>
+    <tabTrigger>rexep_CAT_FORM_BUTTONS</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

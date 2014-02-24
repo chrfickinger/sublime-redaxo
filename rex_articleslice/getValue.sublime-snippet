@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getValue(${1:\$index})]]></content>
+    <tabTrigger>rexslice_getValue</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOSlice</description>
+</snippet>

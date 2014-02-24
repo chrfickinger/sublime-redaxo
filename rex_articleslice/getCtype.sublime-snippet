@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCtype($1)]]></content>
+    <tabTrigger>rexslice_getCtype</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOSlice</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$REX_ACTION[MEDIA][${1:..}]]]></content>
+    <tabTrigger>rexaction_MEDIA</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>$REX_ACTION</description>
+</snippet>

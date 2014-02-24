@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$REX_ACTION[HTML]]]></content>
+    <tabTrigger>rexaction_HTML</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>$REX_ACTION</description>
+</snippet>

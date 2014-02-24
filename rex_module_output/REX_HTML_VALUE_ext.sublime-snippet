@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[REX_HTML_VALUE[${1:ciiips}]]]></content>
+    <tabTrigger>rexout_REX_HTML_VALUE[..]</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Output</description>
+</snippet>

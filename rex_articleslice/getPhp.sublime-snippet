@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPhp($1)]]></content>
+    <tabTrigger>rexslice_getPhp</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOSlice</description>
+</snippet>

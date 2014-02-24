@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getParentId($1)]]></content>
+    <tabTrigger>rexmediacat_getParentId</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMediaCat</description>
+</snippet>

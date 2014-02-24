@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getIcon($1)]]></content>
+    <tabTrigger>rexmedia_getIcon</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMedia</description>
+</snippet>

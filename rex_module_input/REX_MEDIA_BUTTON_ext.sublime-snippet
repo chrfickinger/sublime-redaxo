@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[REX_MEDIA_BUTTON[${1:Value ID [Int]}, ${2:Category ID [Int], ${3:Types [String], ${4:Preview [Bool]}]]]></content>
+    <tabTrigger>rexin_REX_MEDIA_BUTTON[..]</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Input</description>
+</snippet>

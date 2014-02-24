@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isAncestor(${1:\$other_object})]]></content>
+    <tabTrigger>rexcat_isAncestor</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOCategory</description>
+</snippet>

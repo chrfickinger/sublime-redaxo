@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCopyright($1)]]></content>
+    <tabTrigger>rexmedia_getCopyright</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMedia</description>
+</snippet>

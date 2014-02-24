@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getChildren(${1:\$ignore_offlines = false}, ${2:\$clang = false})]]></content>
+    <tabTrigger>rexcat_getChildren</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOCategory</description>
+</snippet>

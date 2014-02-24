@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[INPUT_PHP]]></content>
+    <tabTrigger>rexin_INPUT_PHP</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Input</description>
+</snippet>

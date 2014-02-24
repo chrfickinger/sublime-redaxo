@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isHidden($1)]]></content>
+    <tabTrigger>rexmediacat_isHidden</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMediaCat</description>
+</snippet>

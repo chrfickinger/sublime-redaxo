@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSupportPage(${1:\$addon_name}, ${2:\$plugin_name}, ${3:\$return = ''})]]></content>
+    <tabTrigger>rexplug_getSupportPage</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOPlugin</description>
+</snippet>

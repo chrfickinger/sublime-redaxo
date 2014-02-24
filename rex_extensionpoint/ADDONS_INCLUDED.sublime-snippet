@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ADDONS_INCLUDED]]></content>
+    <tabTrigger>rexep_ADDONS_INCLUDED</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

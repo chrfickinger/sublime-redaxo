@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ARTICLE_GENERATED]]></content>
+    <tabTrigger>rexep_ARTICLE_GENERATED</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

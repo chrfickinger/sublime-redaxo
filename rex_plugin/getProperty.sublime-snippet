@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getProperty(${1:\$addon_name}, ${2:\$plugin_name}, ${3:\$property}, ${4:\$return = ''}) ]]></content>
+    <tabTrigger>rexplug_getProperty</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOPlugin</description>
+</snippet>

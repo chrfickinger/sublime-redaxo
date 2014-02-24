@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isAvailable(${1:\$addon_name}, ${2:\$plugin_name})]]></content>
+    <tabTrigger>rexplug_isAvailable</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOPlugin</description>
+</snippet>

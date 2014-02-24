@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[VALUE[${1:1-20 [Int]}]]]></content>
+    <tabTrigger>rexin_VALUE[1-20]</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Input</description>
+</snippet>

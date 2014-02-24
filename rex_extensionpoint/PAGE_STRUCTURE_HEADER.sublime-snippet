@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[PAGE_STRUCTURE_HEADER]]></content>
+    <tabTrigger>rexep_PAGE_STRUCTURE_HEADER</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

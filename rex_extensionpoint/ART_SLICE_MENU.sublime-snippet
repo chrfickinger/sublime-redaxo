@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ART_SLICE_MENU]]></content>
+    <tabTrigger>rexep_ART_SLICE_MENU</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

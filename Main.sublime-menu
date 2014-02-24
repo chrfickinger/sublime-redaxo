@@ -1,0 +1,1444 @@
+[
+    {
+        "id": "tools",
+        "caption": "Tools",
+        "children":
+        [
+            {
+                "id": "redaxo",
+                "caption": "Redaxo",
+                "children":
+                [
+                    {
+                        // Rex Variables
+                        "id": "rexvar",
+                        "caption": "REX Variables",
+                        "children":
+                        [
+                            {
+                                "caption": "REX_ARTICLE[..]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_variable/REX_ARTICLE[].sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_ARTICLE_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_variable/REX_ARTICLE_ID.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "REX_CATEGORY[..]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_variable/REX_CATEGORY[].sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_CATEGORY_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_variable/REX_CATEGORY_ID.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "REX_CLANG_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_variable/REX_CLANG_ID.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_CTYPE_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_variable/REX_CTYPE_ID.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_MODULE_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_variable/REX_MODULE_ID.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_SLICE_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_variable/REX_SLICE_ID.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "REX_TEMPLATE[..]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_variable/REX_TEMPLATE[].sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_TEMPLATE_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_variable/REX_TEMPLATE_ID.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "REX_USER",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_variable/REX_USER.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_USER_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_variable/REX_USER_ID.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_USER_LOGIN",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_variable/REX_USER_LOGIN.sublime-snippet"}
+                            }
+                        ]
+                    },
+                    { "caption": "-" },
+                    {
+                        // Module Input
+                        "id": "rexin",
+                        "caption": "Module Input",
+                        "children":
+                        [
+                             {
+                                "caption": "VALUE[1-20]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/VALUE.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "INPUT_HTML",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/INPUT_HTML.sublime-snippet"}
+                            },
+                            {
+                                "caption": "INPUT_PHP",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/INPUT_PHP.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "REX_LINK_BUTTON[1-10] ",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_LINK_BUTTON.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_LINK_BUTTON[..]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_LINK_BUTTON_ext.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_LINKLIST_BUTTON[1-10] ",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_LINKLIST_BUTTON.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_LINKLIST_BUTTON[..]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_LINKLIST_BUTTON_ext.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "REX_MEDIA_BUTTON[1-10] ",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_MEDIA_BUTTON.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_MEDIA_BUTTON[..]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_MEDIA_BUTTON_ext.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_MEDIALIST_BUTTON[1-10] ",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_MEDIALIST_BUTTON.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_MEDIALIST_BUTTON[..]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_MEDIALIST_BUTTON_ext.sublime-snippet"}
+                            }
+                           
+                        ]
+                    },
+                    {
+                        // Module Output
+                        "id": "rexout",
+                        "caption": "Module Output",
+                        "children":
+                        [
+                            {
+                                "caption": "REX_VALUE[1-20]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_VALUE.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_VALUE[..]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_VALUE_ext.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_HTML_VALUE[1-20]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_HTML_VALUE.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_HTML_VALUE[..]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_HTML_VALUE_ext.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "REX_IS_VALUE[1-20]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_IS_VALUE.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "REX_HTML",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_HTML.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_PHP",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_PHP.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "REX_LINK[1-10]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_LINK.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_LINK[..]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_LINK_ext.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_LINK_ID[1-10]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_LINK_ID.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_LINK_ID[..]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_LINK_ID_ext.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_LINKLIST[1-10]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_LINKLIST.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_LINKLIST[..]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_LINKLIST_ext.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "REX_MEDIA[1-10]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_MEDIA.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_MEDIA[..]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_MEDIA_ext.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_MEDIALIST[1-10]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_MEDIALIST.sublime-snippet"}
+                            },
+                            {
+                                "caption": "REX_MEDIALIST[..]",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_module_input/REX_MEDIALIST_ext.sublime-snippet"}
+                            }
+                        ]
+                    },
+                    { "caption": "-" },
+                    {
+                        // Articles
+                        "id": "rexart",
+                        "caption": "OOArticle",
+                        "children":
+                        [
+                            {
+                                "caption": "getArticlesOfCategory()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getArticlesOfCategory.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getRootArticles()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getRootArticles.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getArticleById()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getArticleById.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getSiteStartArticle()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getSiteStartArticle.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCategoryStartArticle()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getCategoryStartArticle.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getId()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getId.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getParentId()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getParentId.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCategoryId()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getCategoryId.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getTemplateId()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getTemplateId.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getValue()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getValue.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getName()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getName.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getUrl()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getUrl.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getClang()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getClang.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCategory()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getCategory.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getParent()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getParent.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getParentTree()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getParentTree.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getStartArticle()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getStartArticle.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getPriority()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getPriority.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getCreateDate()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getCreateDate.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCreateUser()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getCreateUser.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getUpdateDate()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getUpdateDate.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getUpdateUser()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/getUpdateUser.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "isValid()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/isValid.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isOnline()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/isOnline.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isStartArticle()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/isStartArticle.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isSiteStartArticle()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/isSiteStartArticle.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isNotFoundArticle()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/isNotFoundArticle.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "hasValue()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/hasValue.sublime-snippet"}
+                            },
+                            {
+                                "caption": "hasTemplate()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/hasTemplate.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "toLink()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/toLink.sublime-snippet"}
+                            },
+                            {
+                                "caption": "toString()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_article/toString.sublime-snippet"}
+                            }
+                        ]
+                    },
+                    {
+                        // ArticleSlices
+                        "id": "rexslice",
+                        "caption": "OOArticleSlice",
+                        "children":
+                        [
+                            {
+                                "caption": "getSlicesForArticleOfType()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getSlicesForArticleOfType.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getArticleSliceById()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getArticleSliceById.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getFirstSliceForArticle()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getFirstSliceForArticle.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getNextSlice()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getNextSlice.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getPreviousSlice()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getPreviousSlice.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getId()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getId.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getArticleId()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getArticleId.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getModuleId()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getModuleId.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getValue()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getValue.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getArticle()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getArticle.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getClang()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getClang.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCtype()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getCtype.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getLink()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getLink.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getLinkUrl()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getLinkUrl.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getLinkList()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getLinkList.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getMedia()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getMedia.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getMediaUrl()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getMediaUrl.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getMediaList()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getMediaList.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getHtml()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getHtml.sublime-snippet"}
+                            },                            
+                            {
+                                "caption": "getPhp()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_articleslice/getPhp.sublime-snippet"}
+                            }
+                        ]
+                    },
+                    {
+                        // Categories
+                        "id": "rexcat",
+                        "caption": "OOCategory",
+                        "children":
+                        [
+                            {
+                                "caption": "getRootCategories()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getRootCategories.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCategoryById()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getCategoryById.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getChildrenById()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getChildrenById.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getId()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getId.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getParentId()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getParentId.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getTemplateId()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getTemplateId.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getValue()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getValue.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getName()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getName.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getUrl()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getUrl.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getClang()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getClang.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getParent()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getParent.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getParentTree()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getParentTree.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getStartArticle()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getStartArticle.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getPriority()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getPriority.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getArticles()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getArticles.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getChildren()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getChildren.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getCreateDate()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getCreateDate.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCreateUser()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getCreateUser.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getUpdateDate()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getUpdateDate.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getUpdateUser()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/getUpdateUser.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "isValid()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/isValid.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isOnline()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/isOnline.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isParent()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/isParent.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isStartArticle()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isNotFoundArticle()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/isStartArticle.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isSiteStartArticle()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/isSiteStartArticle.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isAncestor()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/isAncestor.sublime-snippet"}
+                            },
+                            {
+                                "caption": "inParentTree()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/inParentTree.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "hasTemplate()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/hasTemplate.sublime-snippet"}
+                            },
+                            {
+                                "caption": "hasValue()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/hasValue.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "toLink()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/toLink.sublime-snippet"}
+                            },
+                            {
+                                "caption": "toString()                            ",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_category/toString.sublime-snippet"}
+                            }
+                        ]
+                    },
+                    { "caption": "-" },
+                    {
+                        // Media
+                        "id": "rexmedia",
+                        "caption": "OOMedia",
+                        "children":
+                        [
+                            {
+                                "caption": "getMediaByExtension()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getMediaByExtension.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getMediaById()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getMediaById.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getMediaByFileName()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getMediaByFileName.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getId()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getId.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCategoryId()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getCategoryId.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getValue()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getValue.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getTitle()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getTitle.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getDescription()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getDescription.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCopyright()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getCopyright.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getIcon()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getIcon.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCategory()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getCategory.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCategoryName()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getCategoryName.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getParent()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getParent.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getType()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getType.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getHeight()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getHeight.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getWidth() ",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getWidth.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getSize()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getSize.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getFormattedSize()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getFormattedSize.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getFileName()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getFileName.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getOrgFileName()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getOrgFileName.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getExtension()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getExtension.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getPath()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getPath.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getFullPath()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getFullPath.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getCreateDate()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getCreateDate.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCreateUser()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getCreateUser.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getUpdateDate()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getUpdateDate.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getUpdateUser()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/getUpdateUser.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "isValid()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/isValid.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isInUse()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/isInUse.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isImage()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/isImage.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "hasParent()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/hasParent.sublime-snippet"}
+                            },
+                            {
+                                "caption": "hasValue()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/hasValue.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "toHtml()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/toHtml.sublime-snippet"}
+                            },
+                            {
+                                "caption": "toIcon()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/toIcon.sublime-snippet"}
+                            },
+                            {
+                                "caption": "toImage()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/toImage.sublime-snippet"}
+                            },
+                            {
+                                "caption": "toLink()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/toLink.sublime-snippet"}
+                            },
+                            {
+                                "caption": "toString()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_media/toString.sublime-snippet"}
+                            }
+                        ]
+                    },
+                    {
+                        // MediaCategories
+                        "id": "rexmediacat",
+                        "caption": "OOMediaCategory",
+                        "children":
+                        [
+                            {
+                                "caption": "getRootCategories()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/getRootCategories.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCategoryById()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/getCategoryById.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCategoryByName()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/getCategoryByName.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getId()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/getId.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getParentId()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/getParentId.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getName()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/getName.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getChildren()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/getChildren.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getParent()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/getParent.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getFiles()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/getFiles.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getPath()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/getPath.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getCreateDate()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/getCreateDate.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getCreateUser() ",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/getCreateUser.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getUpdateDate()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/getUpdateDate.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getUpdateUser()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/getUpdateUser.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "countChildren()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/countChildren.sublime-snippet"}
+                            },
+                            {
+                                "caption": "countFiles()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/countFiles.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "hasChildren()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/hasChildren.sublime-snippet"}
+                            },
+                            {
+                                "caption": "hasFiles()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/hasFiles.sublime-snippet"}
+                            },
+                            {
+                                "caption": "hasParent()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/hasParent.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "isValid()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/isValid.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isHidden()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/isHidden.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isParent()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/isParent.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isRootCategory()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_mediacategory/isRootCategory.sublime-snippet"}
+                            }
+                        ]
+                    },
+                    {
+                        // Plugin
+                        "id": "rexplug",
+                        "caption": "OOPlugin",
+                        "children":
+                        [
+                            {
+                                "caption": "getVersion()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_plugin/getVersion.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getProperty()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_plugin/getProperty.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getAuthor()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_plugin/getAuthor.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getSupportPage()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_plugin/getSupportPage.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getAvailablePlugins()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_plugin/getAvailablePlugins.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getInstalledPlugins()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_plugin/getInstalledPlugins.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getRegisteredPlugins()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_plugin/getRegisteredPlugins.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "isActivated()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_plugin/isActivated.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isAvailable()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_plugin/isAvailable.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isInstalled()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_plugin/isInstalled.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "setProperty()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_plugin/setProperty.sublime-snippet"}
+                            }
+                        ]
+                    },
+                    {
+                        // Addon
+                        "id": "rexaddon",
+                        "caption": "OOAddon",
+                        "children":
+                        [
+                            {
+                                "caption": "getVersion()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_addon/getVersion.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getProperty()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_addon/getProperty.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getAuthor()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_addon/getAuthor.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getSupportPage()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_addon/getSupportPage.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "getAvailableAddons()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_addon/getAvailableAddons.sublime-snippet"}
+                            },
+                            {
+                                "caption": "getRegisteredAddons()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_addon/getRegisteredAddons.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "isActivated()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_addon/isActivated.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isAvailable()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_addon/isAvailable.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isInstalled()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_addon/isInstalled.sublime-snippet"}
+                            },
+                            {
+                                "caption": "isSystemAddon()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_addon/isSystemAddon.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "setProperty()",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_addon/setProperty.sublime-snippet"}
+                            }
+                        ]
+                    },
+                    { "caption": "-" },
+                    {
+                        // ExtensionPoints
+                        "id": "rexep",
+                        "caption": "ExtensionPoints",
+                        "children":
+                        [
+                            {
+                                "caption": "ART_ADDED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/ART_ADDED.sublime-snippet"}
+                            },
+                            {
+                                "caption": "ART_DELETED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/ART_DELETED.sublime-snippet"}
+                            },
+                            {
+                                "caption": "ART_INIT",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/ART_INIT.sublime-snippet"}
+                            },
+                            {
+                                "caption": "ART_META_FORM",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/ART_META_FORM.sublime-snippet"}
+                            },
+                            {
+                                "caption": "ART_META_FORM_SECTION",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/ART_META_FORM_SECTION.sublime-snippet"}
+                            },
+                            {
+                                "caption": "ART_META_PARAMS",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/ART_META_PARAMS.sublime-snippet"}
+                            },
+                            {
+                                "caption": "ART_META_UPDATED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/ART_META_UPDATED.sublime-snippet"}
+                            },
+                            {
+                                "caption": "ART_SLICE_MENU",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/ART_SLICE_MENU.sublime-snippet"}
+                            },
+                            {
+                                "caption": "ART_STATUS",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/ART_STATUS.sublime-snippet"}
+                            },
+                            {
+                                "caption": "ART_STATUS_TYPES",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/ART_STATUS_TYPES.sublime-snippet"}
+                            },
+                            {
+                                "caption": "ART_UPDATED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/ART_UPDATED.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "CAT_ADDED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/CAT_ADDED.sublime-snippet"}
+                            },
+                            {
+                                "caption": "CAT_DELETED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/CAT_DELETED.sublime-snippet"}
+                            },
+                            {
+                                "caption": "CAT_FORM_ADD",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/CAT_FORM_ADD.sublime-snippet"}
+                            },
+                            {
+                                "caption": "CAT_FORM_EDIT",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/CAT_FORM_EDIT.sublime-snippet"}
+                            },
+                            {
+                                "caption": "CAT_FORM_BUTTONS",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/CAT_FORM_BUTTONS.sublime-snippet"}
+                            },
+                            {
+                                "caption": "CAT_STATUS",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/CAT_STATUS.sublime-snippet"}
+                            },
+                            {
+                                "caption": "CAT_STATUS_TYPES",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/CAT_STATUS_TYPES.sublime-snippet"}
+                            },
+                            {
+                                "caption": "CAT_UPDATED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/CAT_UPDATED.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "CLANG_ADDED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/CLANG_ADDED.sublime-snippet"}
+                            },
+                            {
+                                "caption": "CLANG_DELETED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/CLANG_DELETED.sublime-snippet"}
+                            },
+                            {
+                                "caption": "CLANG_UPDATED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/CLANG_UPDATED.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "MEDIA_ADDED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/MEDIA_ADDED.sublime-snippet"}
+                            },
+                            {
+                                "caption": "MEDIA_FORM_ADD",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/MEDIA_FORM_ADD.sublime-snippet"}
+                            },
+                            {
+                                "caption": "MEDIA_FORM_EDIT",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/MEDIA_FORM_EDIT.sublime-snippet"}
+                            },
+                            {
+                                "caption": "MEDIA_LIST_FUNCTIONS",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/MEDIA_LIST_FUNCTIONS.sublime-snippet"}
+                            },
+                            {
+                                "caption": "MEDIA_LIST_QUERY",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/MEDIA_LIST_QUERY.sublime-snippet"}
+                            },
+                            {
+                                "caption": "MEDIA_LIST_TOOLBAR",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/MEDIA_LIST_TOOLBAR.sublime-snippet"}
+                            },
+                            {
+                                "caption": "MEDIA_UPDATED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/MEDIA_UPDATED.sublime-snippet"}
+                            },
+                            {
+                                "caption": "OOMEDIA_IS_IN_USE_QUERY",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/OOMEDIA_IS_IN_USE_QUERY.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "PAGE_HEADER",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/PAGE_HEADER.sublime-snippet"}
+                            },
+                            {
+                                "caption": "PAGE_CONTENT_HEADER",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/PAGE_CONTENT_HEADER.sublime-snippet"}
+                            },
+                            {
+                                "caption": "PAGE_STRUCTURE_HEADER",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/PAGE_STRUCTURE_HEADER.sublime-snippet"}
+                            },
+                            {
+                                "caption": "PAGE_MEDIAPOOL_HEADER",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/PAGE_MEDIAPOOL_HEADER.sublime-snippet"}
+                            },
+                            {
+                                "caption": "PAGE_TITLE",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/PAGE_TITLE.sublime-snippet"}
+                            },
+                            {
+                                "caption": "PAGE_TITLE_SHOWN",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/PAGE_TITLE_SHOWN.sublime-snippet"}
+                            },
+                            {
+                                "caption": "PAGE_CONTENT_MENU",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/PAGE_CONTENT_MENU.sublime-snippet"}
+                            },
+                            {
+                                "caption": "PAGE_CONTENT_CTYPE_MENU",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/PAGE_CONTENT_CTYPE_MENU.sublime-snippet"}
+                            },
+                            {
+                                "caption": "PAGE_MEDIAPOOL_MENU",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/PAGE_MEDIAPOOL_MENU.sublime-snippet"}
+                            },
+                            {
+                                "caption": "PAGE_CHECKED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/PAGE_CHECKED.sublime-snippet"}
+                            },
+                            {
+                                "caption": "SLICE_SHOW",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/SLICE_SHOW.sublime-snippet"}
+                            },
+                            {
+                                "caption": "URL_REWRITE",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/URL_REWRITE.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "ARTICLE_GENERATED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/ARTICLE_GENERATED.sublime-snippet"}
+                            },
+                            {
+                                "caption": "CLANG_ARTICLE_GENERATED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/CLANG_ARTICLE_GENERATED.sublime-snippet"}
+                            },
+                            {
+                                "caption": "ALL_GENERATED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/ALL_GENERATED.sublime-snippet"}
+                            },
+                            {
+                                "caption": "GENERATE_FILTER",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/GENERATE_FILTER.sublime-snippet"}
+                            },
+                            {
+                                "caption": "OUTPUT_FILTER",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/OUTPUT_FILTER.sublime-snippet"}
+                            },
+                            {
+                                "caption": "OUTPUT_FILTER_CACHE",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/OUTPUT_FILTER_CACHE.sublime-snippet"}
+                            },
+                            {
+                                "caption": "ADDONS_INCLUDED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_extensionpoint/ADDONS_INCLUDED.sublime-snippet"}
+                            }
+                        ]
+                    },
+                    { "caption": "-" },
+                    {
+                        // $REX
+                        "id": "rex",
+                        "caption": "$REX",
+                        "children":
+                        [
+                            {
+                                "caption": "REDAXO",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/REDAXO.sublime-snippet"}
+                            },
+                            {
+                                "caption": "SERVER",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/SERVER.sublime-snippet"}
+                            },
+                            {
+                                "caption": "SERVERNAME",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/SERVERNAME.sublime-snippet"}
+                            },
+                            {
+                                "caption": "SESSION_DURATION",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/SESSION_DURATION.sublime-snippet"}
+                            },
+                            {
+                                "caption": "MOD_REWRITE",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/MOD_REWRITE.sublime-snippet"}
+                            },
+                            {
+                                "caption": "SETUP",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/SETUP.sublime-snippet"}
+                            },
+                            {
+                                "caption": "ERROR_EMAIL",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/ERROR_EMAIL.sublime-snippet"}
+                            },
+                            {
+                                "caption": "VERSION",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/VERSION.sublime-snippet"}
+                            },
+                            {
+                                "caption": "MINOR_VERSION",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/MINOR_VERSION.sublime-snippet"}
+                            },
+                            {
+                                "caption": "HTDOCS_PATH",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/HTDOCS_PATH.sublime-snippet"}
+                            },
+                            {
+                                "caption": "INCLUDE_PATH",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/INCLUDE_PATH.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "START_PAGE",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/START_PAGE.sublime-snippet"}
+                            },
+                            {
+                                "caption": "START_CLANG_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/START_CLANG_ID.sublime-snippet"}
+                            },
+                            {
+                                "caption": "START_ARTICLE_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/START_ARTICLE_ID.sublime-snippet"}
+                            },
+                            {
+                                "caption": "NOTFOUND_ARTICLE_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/NOTFOUND_ARTICLE_ID.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "LANG",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/LANG.sublime-snippet"}
+                            },
+                            {
+                                "caption": "CLANG",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/CLANG.sublime-snippet"}
+                            },
+                            {
+                                "caption": "CUR_CLANG",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/CUR_CLANG.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "DB",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/DB.sublime-snippet"}
+                            },
+                            {
+                                "caption": "MYSQL_VERSION",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/MYSQL_VERSION.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "USER",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/USER.sublime-snippet"}
+                            },
+                            {
+                                "caption": "LOGIN",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/LOGIN.sublime-snippet"}
+                            },
+                            {
+                                "caption": "MAXLOGINS",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/MAXLOGINS.sublime-snippet"}
+                            },
+                            {
+                                "caption": "RELOGINDELAY",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/RELOGINDELAY.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "PERM",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/PERM.sublime-snippet"}
+                            },
+                            {
+                                "caption": "EXTPERM",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/EXTPERM.sublime-snippet"}
+                            },
+                            {
+                                "caption": "EXTRAPERM",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/EXTRAPERM.sublime-snippet"}
+                            },
+                            {
+                                "caption": "FILEPERM",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/FILEPERM.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "MEDIAFOLDER",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/MEDIAFOLDER.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "VARIABLES",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/VARIABLES.sublime-snippet"}
+                            },
+                            {
+                                "caption": "INSTNAME",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/INSTNAME.sublime-snippet"}
+                            },
+                            {
+                                "caption": "PAGES",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/PAGES.sublime-snippet"}
+                            },
+                            {
+                                "caption": "PSWFUNC",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/PSWFUNC.sublime-snippet"}
+                            },
+                            {
+                                "caption": "NOFUNCTIONS",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/NOFUNCTIONS.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "ACKEY",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/ACKEY.sublime-snippet"}
+                            },
+                            {
+                                "caption": "ADDON",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/ADDON.sublime-snippet"}
+                            },
+                            {
+                                "caption": "SUBVERSION",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/SUBVERSION.sublime-snippet"}
+                            },
+                            {
+                                "caption": "SYSTEM_ADDONS",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/SYSTEM_ADDONS.sublime-snippet"}
+                            },
+                            {
+                                "caption": "TABLE_PREFIX",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/TABLE_PREFIX.sublime-snippet"}
+                            },
+                            {
+                                "caption": "TEMP_PREFIX",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/TEMP_PREFIX.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "USE_ETAG",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/USE_ETAG.sublime-snippet"}
+                            },
+                            {
+                                "caption": "USE_GZIP",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/USE_GZIP.sublime-snippet"}
+                            },
+                            {
+                                "caption": "USE_LAST_MODIFIED",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/USE_LAST_MODIFIED.sublime-snippet"}
+                            },
+                            {
+                                "caption": "USE_MD5",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex/USE_MD5.sublime-snippet"}
+                            }
+                        ]
+                    },
+                    {
+                        // $REX_ACTION
+                        "id": "rexaction",
+                        "caption": "$REX_ACTION",
+                        "children":
+                        [
+                            {
+                                "caption": "ARTICLE_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_action/ARTICLE_ID.sublime-snippet"}
+                            },
+                            {
+                                "caption": "CTYPE_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_action/CTYPE_ID.sublime-snippet"}
+                            },
+                            {
+                                "caption": "MODULE_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_action/MODULE_ID.sublime-snippet"}
+                            },
+                            {
+                                "caption": "SLICE_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_action/SLICE_ID.sublime-snippet"}
+                            },
+                            {
+                                "caption": "CLANG_ID",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_action/CLANG_ID.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "VALUE",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_action/VALUE.sublime-snippet"}
+                            },
+                            {
+                                "caption": "LINK",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_action/LINK.sublime-snippet"}
+                            },
+                            {
+                                "caption": "MEDIA",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_action/MEDIA.sublime-snippet"}
+                            },
+                            {
+                                "caption": "MEDIALIST",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_action/MEDIALIST.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "HTML",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_action/HTML.sublime-snippet"}
+                            },                            
+                            {
+                                "caption": "PHP",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_action/PHP.sublime-snippet"}
+                            },
+                            { "caption": "-" },
+                            {
+                                "caption": "EVENT",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_action/EVENT.sublime-snippet"}
+                            },
+                            {
+                                "caption": "MSG",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_action/MSG.sublime-snippet"}
+                            },
+                            {
+                                "caption": "SAVE",
+                                "command": "insert_snippet", "args": {"name": "Packages/Redaxo/rex_action/SAVE.sublime-snippet"}
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

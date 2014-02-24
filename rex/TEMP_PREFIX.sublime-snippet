@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$REX[TEMP_PREFIX]]]></content>
+    <tabTrigger>rex_TEMP_PREFIX</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>$REX</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getUpdateUser($1)]]></content>
+    <tabTrigger>rexart_getUpdateUser</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOArticle</description>
+</snippet>

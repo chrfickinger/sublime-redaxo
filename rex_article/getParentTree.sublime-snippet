@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getParentTree($1)]]></content>
+    <tabTrigger>rexart_getParentTree</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOArticle</description>
+</snippet>

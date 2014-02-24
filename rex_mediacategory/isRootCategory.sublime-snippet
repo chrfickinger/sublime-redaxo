@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isRootCategory($1)]]></content>
+    <tabTrigger>rexmediacat_isRootCategory</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMediaCat</description>
+</snippet>

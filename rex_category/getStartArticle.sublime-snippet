@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getStartArticle($1)]]></content>
+    <tabTrigger>rexcat_getStartArticle</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOCategory</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAuthor(${1:\$addon_name}, ${2:\$return = ''})]]></content>
+    <tabTrigger>rexaddon_getAuthor</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOAddon</description>
+</snippet>

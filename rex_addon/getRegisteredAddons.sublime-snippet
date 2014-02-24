@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRegisteredAddons($1)]]></content>
+    <tabTrigger>rexaddon_getRegisteredAddons</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOAddon</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getName($1)]]></content>
+    <tabTrigger>rexart_getName</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOArticle</description>
+</snippet>

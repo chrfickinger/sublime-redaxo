@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[REX_TEMPLATE[${1:ciiips}]]]></content>
+    <tabTrigger>rexvar_REX_TEMPLATE[]</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Variable</description>
+</snippet>

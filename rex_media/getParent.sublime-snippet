@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getParent($1)]]></content>
+    <tabTrigger>rexmedia_getParent</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMedia</description>
+</snippet>

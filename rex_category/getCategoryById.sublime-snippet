@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCategoryById(${1:\$category_id = false}, ${2:\$clang = false})]]></content>
+    <tabTrigger>rexcat_getCategoryById</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOCategory</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[PAGE_MEDIAPOOL_HEADER]]></content>
+    <tabTrigger>rexep_PAGE_MEDIAPOOL_HEADER</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

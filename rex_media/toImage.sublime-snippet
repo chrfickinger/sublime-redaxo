@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[toImage(${1:\$params = ''})]]></content>
+    <tabTrigger>rexmedia_toImage</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMedia</description>
+</snippet>

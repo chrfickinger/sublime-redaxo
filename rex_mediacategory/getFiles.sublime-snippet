@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFiles($1)]]></content>
+    <tabTrigger>rexmediacat_getFiles</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMediaCat</description>
+</snippet>

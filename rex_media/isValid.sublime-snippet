@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isValid(${1:\$object})]]></content>
+    <tabTrigger>rexmedia_isValid</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMedia</description>
+</snippet>

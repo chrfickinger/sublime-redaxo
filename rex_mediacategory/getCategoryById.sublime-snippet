@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCategoryById(${1:\$media_category_id})]]></content>
+    <tabTrigger>rexmediacat_getCategoryById</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMediaCat</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isImage($1)]]></content>
+    <tabTrigger>rexmedia_isImage</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMedia</description>
+</snippet>

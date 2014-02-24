@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CAT_DELETED]]></content>
+    <tabTrigger>rexep_CAT_DELETED</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isValid($object)]]></content>
+    <tabTrigger>rexmediacat_isValid</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>OOMediaCat</description>
+</snippet>

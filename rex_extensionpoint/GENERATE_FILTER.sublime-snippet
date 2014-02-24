@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[GENERATE_FILTER]]></content>
+    <tabTrigger>rexep_GENERATE_FILTER</tabTrigger>
+    <scope>source.php, text.html</scope>
+    <description>Ext.Point</description>
+</snippet>
