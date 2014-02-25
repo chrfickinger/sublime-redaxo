@@ -53,4 +53,4 @@ Install manually, download the package and copy the files inside your `Packages`
 ## Support
 
 Please direct any feedback via GitHub.
-Thanks for using Redaxo for Sublime.
+Thanks for using Redaxo for Sublime :)
